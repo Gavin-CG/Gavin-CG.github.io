@@ -1,0 +1,13 @@
+[
+{"key":"kill_version","value":"v001","note":"translator自杀版本"}, 
+{"key":"kill_date","value":"20231231","note":"translator自杀日期"},
+{"key":"BaiduID","value":"20180123000117942","note":"百度翻译"},
+{"key":"BaiduKey","value":"YUvJNs9cfOU3N7RTkmwy","note":"百度翻译"},
+{"key":"BaiduQPS","value":"10","note":"百度翻译，高级版10，标准版1"},
+{"key":"BaiduOCR_secretkey","value":"g3H4sopuPPszfMUjoGi1yARNPcEvye6V","note":"百度ocr"},
+{"key":"BaiduOCR_apikey","value":"y0sHqzUAFhYuqbhhrUzHcIXs","note":"百度ocr"},
+{"key":"BaiduOCR_appid","value":"16701237","note":"百度ocr"},
+{"key":"YoudaoKey","value":"BXrB5JgsKdjLU2nQ1eMe2xl4OzP1JUM9","note":"有道翻译"},
+{"key":"YoudaoID","value":"4db617fe9a7577c6","note":"有道翻译"},
+{"key":"tool","value":"http://www.esjson.com/exceltojson.html","note":"excel转json工具"}
+]
